@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**FABI0207/FABI0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fabiele Furkevicz 
 
-Here are some ideas to get you started:
+- Estou estudando na {Alura}(htts://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compatilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+fabiele.furkevicz@escola.pr.gov.br 
+
+@fabielefurkevicz
+
+![](https://media.tenor.com/sk9sdkJ_o7EAAAAi/cat.gif)
